@@ -3,8 +3,8 @@ name: street-redesign-toolkit
 description: Analyze existing street configurations and propose lane reallocation to improve walkability and safety while maintaining traffic flow.
 license: MIT
 metadata:
-  version: 1.0.5089
   author: sethmblack
+  version: 1.0.5090
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - street-redesign-toolkit
